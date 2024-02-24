@@ -1,3 +1,3 @@
-[submodule "libc-plantos"]
-path = libc
-url = https://github.com/duoduo70/libc-plantos
+[submodule "libc"]
+	path = libc
+	url = git@github.com:duoduo70/libc-plantos.git

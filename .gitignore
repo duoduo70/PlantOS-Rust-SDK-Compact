@@ -17,3 +17,5 @@
 !run.sh
 !LICENSE
 !.gitmodules
+!libc
+!libc/**
