@@ -1,3 +1,6 @@
 [submodule "libc"]
 	path = libc
 	url = git@github.com:duoduo70/libc-plantos.git
+[submodule "alloc"]
+	path = alloc
+	url = git@github.com:duoduo70/alloc-rs-plantos.git

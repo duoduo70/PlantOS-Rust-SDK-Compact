@@ -19,3 +19,5 @@
 !.gitmodules
 !libc
 !libc/**
+!alloc
+!alloc/**
