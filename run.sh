@@ -1,2 +1,2 @@
-make build
+make build &&
 make run

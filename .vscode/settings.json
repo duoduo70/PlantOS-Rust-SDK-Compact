@@ -1,3 +1,5 @@
 {
-    "rust-analyzer.check.allTargets": false
+    "rust-analyzer.check.allTargets": false,
+    "rust-analyzer.cargo.target": "i686-unknown-plantos.json",
+    "rust-analyzer.cargo.extraArgs": ["-Zbuild-std=core"]
 }
